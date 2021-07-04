@@ -22,8 +22,8 @@ const Instructions = () => {
 						<h3>
 							Whenever you want you want to start the app run "expo start --no-dev --minify" in your
 							client folder. Inside the backend and run python3 app.py while inside your virtualenv.
-							Go into the .env file and change your server url to the uri it shows in your python
-							console after starting the Flask server.
+							Run ifconfig in your terminal and replace all instances of the original ip address and
+							replace it with your IPv4 address and it should work now
 						</h3>
 					</div>
 					<div class="one-of-two">
