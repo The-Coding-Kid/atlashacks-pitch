@@ -6,7 +6,7 @@ const Steps = () => {
 		<>
 			<section id="about">
 				<h2 class="section-headline">Why Fresh Choices</h2>
-				<h3 class="line"></h3>
+				<div class="line"></div>
 				<div class="row">
 					<div class="one-of-two">
 						<img src="assets/food.jpg" alt="" />
