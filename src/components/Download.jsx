@@ -9,6 +9,9 @@ const Download = () => {
 				<div class="line"></div>
 				<a href="https://github.com/The-Coding-Kid/atlashacks-app">Download Client(React Native)</a>
 				<a href="https://github.com/The-Coding-Kid/atlashacks-backend">Download Backend(Flask)</a>
+				<a href="http://192.168.86.27:5000/">
+					Try our web version of our app(make sure to try the app version though!!! :) )
+				</a>
 			</section>
 		</>
 	);
